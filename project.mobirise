@@ -1,24 +1,24 @@
 {
   "settings": {
     "name": "teem-ex",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 5,
+    "uniqCompNum": 8,
     "versionPublish": "3.10.4",
     "favicon": "",
     "noImageResize": ""
   },
   "pages": {
-    "index.html": {
+    "teem-ex01": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "cghfjgjk",
+        "meta_descr": "fhgfhj hjgjhvhn",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -88,7 +88,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-2213.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-221.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -130,7 +130,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-2213.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-221.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -172,7 +172,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-2213.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-221.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -191,6 +191,58 @@
           "title": "<span style=\"font-family: inherit;\">Hot HD Porn Movies Mobile XXX</span><br><br>",
           "text": "Free Pussy Videos, Porn Sex, Hd Porn Videos Free,<br>Sex Every Day New HD Videos 100% Free<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://goo.gl/V0arFg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET STARTED</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://goo.gl/V0arFg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE VIDEOS</a>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {},
+      "components": [
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-7",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "EASY TO USE!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         }
       ]
     }
