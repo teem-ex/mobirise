@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 8,
+    "uniqCompNum": 12,
     "versionPublish": "3.10.4",
     "favicon": "",
     "noImageResize": ""
@@ -17,8 +17,8 @@
     "teem-ex01": {
       "settings": {
         "main": true,
-        "title": "cghfjgjk",
-        "meta_descr": "fhgfhj hjgjhvhn",
+        "title": "FREE PORN VIDEOS",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -45,24 +45,24 @@
           "_anchor": "header1-0",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-22.jpg",
             "bgColor": "#4c6972",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "contentAlign": "left",
+            "contentAlign": "center",
             "overlay": false,
             "overlayOpacity": "0.3",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": true
+            "showArrow": false
           },
-          "title": "<span style=\"font-family: inherit;\">Hot HD Porn Movies Mobile XXX</span><br>",
+          "title": "<span style=\"font-family: inherit;\">Hot HD Porn Movies &amp;</span><br><span style=\"font-family: inherit;\">Mobile XXX</span><br>",
           "text": "Free Pussy Videos, Porn Sex, Hd Porn Videos Free,<br>Sex Every Day New HD Videos<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://goo.gl/V0arFg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET STARTED</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://goo.gl/V0arFg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE VIDEOS</a>"
         },
@@ -88,7 +88,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-221.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-22.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -130,7 +130,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-221.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-22.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -172,7 +172,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-221.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-22.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -191,58 +191,94 @@
           "title": "<span style=\"font-family: inherit;\">Hot HD Porn Movies Mobile XXX</span><br><br>",
           "text": "Free Pussy Videos, Porn Sex, Hd Porn Videos Free,<br>Sex Every Day New HD Videos 100% Free<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://goo.gl/V0arFg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET STARTED</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://goo.gl/V0arFg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE VIDEOS</a>"
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {},
-      "components": [
+        },
         {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-7",
+          "_name": "header1",
+          "_styles": {
+            "P": {
+              "color": "#cccccc"
+            },
+            "H1": {
+              "color": "#000000"
+            },
+            "SPAN": {
+              "font-size": "48px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-9",
           "_params": {
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/as-2000x1091-22-4.jpg",
+            "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#28324e",
-            "showMeta": false,
-            "darkBackground": true
+            "contentAlign": "left",
+            "overlay": false,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
           },
-          "title": "EASY TO USE!",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+          "title": "<span style=\"font-family: inherit;\">Hot HD Porn Movies Mobile XXX</span><br><br>",
+          "text": "Free Pussy Videos, Porn Sex, Hd Porn Videos Free,<br>Sex Every Day New HD Videos 100% Free<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://goo.gl/V0arFg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET STARTED</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://goo.gl/V0arFg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE VIDEOS</a>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "REDTUBE VIDEOS"
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fbff-2000x2000-67.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "REDTUBE VIDEOS<br>Live Cam - Porn Site",
+          "text": "Free Pussy Videos, Porn Sex, Hd Porn Videos Free,<br>Sex Every Day New HD Videos<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET STARTED FREE VIDEOS</a>",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#c1c1c1"
+            }
+          }
         }
       ]
     }
